@@ -1,0 +1,8 @@
+.header h1 span{
+    color: #e94949;
+}
+.header .profile{
+    width: 70%;
+    border-radius: 50%;
+    text-align: center;
+}

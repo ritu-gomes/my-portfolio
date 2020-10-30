@@ -1,0 +1,27 @@
+.navigation .navbar-brand{
+    color: white;
+    font-weight: 600;
+    font-size: 50px;
+}
+nav .options a{
+    color: #e94949;
+}
+nav .options a:hover{
+    color: wheat;
+}
+.navigation .btn a{
+    color: white;
+}
+.navigation .btn:hover{
+    background-color: white;
+}
+.navigation .btn:hover a{
+    color:  rgb(233, 73, 73);
+}
+.navigation .btn a:hover{
+    text-decoration: none;
+}
+.navigation .btn{
+    padding: 7px 30px;
+    background-color:  rgb(233, 73, 73);
+}
