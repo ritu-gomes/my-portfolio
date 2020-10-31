@@ -1,11 +1,12 @@
 import React from 'react';
 import OpenInNewSharpIcon from '@material-ui/icons/OpenInNewSharp';
 import GitHubIcon from '@material-ui/icons/GitHub';
+import './ProjectCard'
 
 const ProjectCard = ({img,git,live,detail,title}) => {
     return (
         <>
-            <div className="card mb-3 p-3" style={{width: "100%",height: "100%"}}>
+            <div className="card mb-3 p-1">
                 <div className="row no-gutters">
                     <div className="col-md-6">
                         <img src={img} className="card-img" alt="..."/>

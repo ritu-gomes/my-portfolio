@@ -1,7 +1,10 @@
+.navigation{
+    background-color: #222;
+}
 .navigation .navbar-brand{
     color: white;
     font-weight: 600;
-    font-size: 50px;
+    font-size: 30px;
 }
 nav .options a{
     color: #e94949;
@@ -24,4 +27,5 @@ nav .options a:hover{
 .navigation .btn{
     padding: 7px 30px;
     background-color:  rgb(233, 73, 73);
+    transition: .3s;
 }

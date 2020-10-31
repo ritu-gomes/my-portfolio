@@ -15,7 +15,7 @@ const Header = () => {
                     <a href="https://github.com/ritu-gomes" target="_blank" rel="noopener noreferrer"><GitHubIcon style={{color: "white", width: "40px", marginRight: "5px"}}/></a>
                     <a href="https://www.linkedin.com/in/irene-ritu-gomes-61a9101ba/" target="_blank" rel="noopener noreferrer"><LinkedInIcon style={{color: "white", width: "40px", marginRight: "5px"}}/></a>
                 </div>
-                <div className="col-md-6">
+                <div className="col-md-6 text-center">
                     <img className="profile" src={owner} alt=""/>
                 </div>
             </div>
