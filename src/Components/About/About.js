@@ -30,7 +30,6 @@ const About = () => {
                     <ul style={{listStyle: "none"}}>
                         <li>C, C++</li>
                         <li>Mysql</li>
-                        <li>MongoDB</li>
                         <li>sass, jquery</li>
                     </ul>
                 </div>

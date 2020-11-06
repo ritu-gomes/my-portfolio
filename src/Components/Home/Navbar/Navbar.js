@@ -16,8 +16,8 @@ const Navbar = () => {
                         <Link className="nav-link mr-3" to="/projects">Projects</Link>
                         <Link className="nav-link mr-3" to="/blogs">Blogs</Link>
                         <Link className="nav-link mr-3" to="/about">About</Link>
-                        <button className="btn btn-dark">
-                            <a style={{fontWeight: "500"}} href="https://drive.google.com/file/d/1fRkxtxd2y1WkkZjHoE9dp4ioFw6v6AJ_/view?usp=sharing">Resume</a>
+                        <button className="btn">
+                            <a style={{fontWeight: "500"}} href="https://drive.google.com/file/d/1XdmT9telCHAn6ktkpTDQnjRKu_l9jj2_/view?usp=sharing">Resume</a>
                         </button>
                     </div>
                 </div>

@@ -1,0 +1,35 @@
+.blog-section .card:hover{
+    border: 2px solid #e94949;
+}
+.blog-section .card .card-footer .btn{
+    background: #e94949;
+    color: white;
+    transition: .3s;
+}
+
+.blog-section .card .card-footer .btn a{
+    color: white;
+    transition: .3s;
+}
+
+.blog-section .card .card-footer .btn:hover{
+    background: white;
+    border: 1px solid #e94949;
+}
+.blog-section .card .card-footer .btn:hover a{
+    color: #e94949;
+    text-decoration: none;
+}
+.blog-section .btn{
+    background: #e94949;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 7px 30px;
+    transition: .3s;
+}
+.blog-section .btn:hover{
+    background: white;
+    color:  #e94949;
+    border: 1px solid  #e94949;
+}

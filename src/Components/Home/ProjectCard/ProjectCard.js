@@ -6,7 +6,7 @@ import './ProjectCard'
 const ProjectCard = ({img,git,live,detail,title}) => {
     return (
         <>
-            <div className="card mb-3 p-1">
+            <div className="card mb-3">
                 <div className="row no-gutters">
                     <div className="col-md-6">
                         <img src={img} className="card-img" alt="..."/>
