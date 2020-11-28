@@ -1,15 +1,10 @@
 .contact .form-area{
-    width: 500px;
-    margin: 0 auto;
+    background-color: #e94949;
+    border-radius: 5px;
 }
 .contact .form-area .btn{
-    background-color: #e94949;
-    color: white;
+    background-color: white;
+    color: #e94949;
     font-weight: 500;
     transition: .3s;
-}
-.contact .form-area .btn:hover{
-    color: #e94949;
-    background-color: white;
-    border: 2px solid #e94949;
 }

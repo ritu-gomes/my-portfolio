@@ -6,6 +6,9 @@
     font-weight: 600;
     font-size: 30px;
 }
+.navigation .navbar-toggler{
+    background-color: #e94949;
+}
 nav .options a{
     color: #e94949;
 }
