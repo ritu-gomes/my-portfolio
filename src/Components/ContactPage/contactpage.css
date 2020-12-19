@@ -1,0 +1,10 @@
+.contact-page .form-area{
+    background-color: #e94949;
+    border-radius: 5px;
+}
+.contact-page .form-area .btn{
+    background-color: white;
+    color: #e94949;
+    font-weight: 500;
+    transition: .3s;
+}

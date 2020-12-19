@@ -1,5 +1,11 @@
-.header h1 span{
+.header h1 span,
+.header p span{
     color: #e94949;
+}
+.header h2,
+.header h1,
+.header p span{
+    font-family: 'Langar', cursive;
 }
 .header .profile{
     width: 70%;

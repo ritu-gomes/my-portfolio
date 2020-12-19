@@ -23,12 +23,12 @@ const BlogSection = ({blog}) => {
                 </div> 
                 {
                     blog && <div className="col-md-4">
-                    <BlogCard img={js} title="Some JavaScript Concepots" link="https://irene-ritu-gomes.medium.com/few-things-about-javascript-fac7080bb214"></BlogCard>
+                    <BlogCard img={js} title="Some JavaScript Concepts" link="https://irene-ritu-gomes.medium.com/few-things-about-javascript-fac7080bb214"></BlogCard>
                     </div>
                 }
             </div>   
             {
-                !blog && <Link className="btn" to="/Blogs">See All Blogs</Link>
+                !blog && <Link className="btn" to="/Blogs">See All Blogs...</Link>
             }
         </section>
     );

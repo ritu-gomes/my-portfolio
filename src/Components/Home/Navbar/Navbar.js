@@ -15,6 +15,7 @@ const Navbar = () => {
                         <Link className="nav-link mr-3" to="/home">Home</Link>
                         <Link className="nav-link mr-3" to="/projects">Projects</Link>
                         <Link className="nav-link mr-3" to="/blogs">Blogs</Link>
+                        <Link className="nav-link mr-3" to="/contact">Contact</Link>
                         <Link className="nav-link mr-3" to="/about">About</Link>
                         <button className="btn">
                             <a style={{fontWeight: "500"}} href="https://drive.google.com/file/d/1XdmT9telCHAn6ktkpTDQnjRKu_l9jj2_/view?usp=sharing">Resume</a>

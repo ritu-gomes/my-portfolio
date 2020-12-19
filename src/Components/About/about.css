@@ -5,3 +5,12 @@
     border-radius: 4px;
     margin: 7px auto;
 }
+.about h1 span,
+.about p span{
+    color: #e94949;
+}
+.about h2,
+.about h1,
+.about p span{
+    font-family: 'Langar', cursive;
+}
