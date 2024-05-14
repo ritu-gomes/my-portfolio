@@ -3,6 +3,7 @@ import SingleProject from '../SingleProject/SingleProject';
 import project1 from '../../images/creative-agency.PNG';
 import project2 from '../../images/volunteer.PNG';
 import project3 from '../../images/travel-guru.PNG';
+import mealImage from '../../images/meal-mate.png';
 
 const Projects = () => {
     return (
@@ -10,6 +11,9 @@ const Projects = () => {
             <section className="projects container py-5">
                 <h2 className="mb-5" style={{color: "#e94949"}}>My Projects</h2>
                 <div className="row">
+                <div className="col-md-4">
+                <SingleProject img={mealImage} title="Meal-Mate" detail="A diet meal providing app" git="https://github.com/ritu-gomes/meal-mate-client"></SingleProject>
+                    </div> 
                 <div className="col-md-4">
                 <SingleProject img={project1} title="Creative Agency" detail="A technical service providing website" git="https://github.com/ritu-gomes/creative-agency-client" live="https://creative-agency-438f0.web.app/"></SingleProject>
                     </div> 

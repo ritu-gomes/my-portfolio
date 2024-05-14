@@ -11,7 +11,7 @@ const Header = () => {
                 <div className="col-md-6">
                     <h2>Hi I'm</h2>
                     <h1><span>Irene Ritu Gomes</span></h1>
-                    <p>A passionate and enthusiastic <span>Web Developer</span>, having a great interest to work with JavaScript, ReactJS, MERN stack developement etc. Doing my BSc in Computer Science and Engineering. Looking forward to bringing my passion to a full-time role.</p>
+                    <p>A passionate and enthusiastic <span>Web Developer</span>, having a great interest to work with JavaScript, ReactJS, NodeJs, MERN stack developement etc. I have done my BSc in Computer Science and Engineering. Looking forward to bringing my passion to a full-time role.</p>
                     <p>You can reach me at - irengomes018@gmail.com</p>
                     <a href="https://github.com/ritu-gomes" target="_blank" rel="noopener noreferrer"><GitHubIcon style={{color: "white", fontSize: "30px", marginRight: "10px"}}/></a>
                     <a href="https://www.linkedin.com/in/irene-ritu-gomes-61a9101ba/" target="_blank" rel="noopener noreferrer"><LinkedInIcon style={{color: "white", fontSize: "35px"}}/></a>
